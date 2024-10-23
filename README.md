@@ -23,9 +23,7 @@ This dashboard provides a general overview of call centre performance by focusin
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/c21f65ad-3416-4236-a3d2-6e1aa7455dce">
 
 ### 2. **Call Center Trend**
-This dashboard allows users to analyze call trends over time, providing insights on:
-- **Call Trends by Weekday**: Shows how call volume fluctuates on different weekdays, helping to understand peak and low periods.
-- **Call Trends by Month**: Tracks monthly call trends, which can reveal seasonal patterns or shifts in call centre demand.
+This dashboard allows users to analyze call trends over time, providing insights on: **Call Trends by Weekday** and **Call Trends by Month**, which can reveal seasonal patterns or shifts in call centre demand. The key metrics like **Answer Time, Satisfaction Rate** and **Resolution Rate** were analysed.
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/30df3196-62ec-4bce-aef9-1ee528416f8f">
 
 ### 3. **Agent Statistics**
